@@ -1,1 +1,23 @@
 
+[
+  {
+     "id": 1,
+     "name": "Orz",
+     "nrSilo": 1,
+     "quantity": 90.0,
+     "priceT": 100.0,
+     "soldQuantity": 0.0,
+     "amountObtained": 0
+  
+  }
+   {
+     "id": 2,
+     "name": "Grau",
+     "nrSilo": 1,
+     "quantity": 90.0,
+     "priceT": 100.0,
+     "soldQuantity": 0.0,
+     "amountObtained": 0
+  
+  }
+]
